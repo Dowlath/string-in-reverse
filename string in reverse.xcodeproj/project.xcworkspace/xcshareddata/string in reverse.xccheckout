@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4776166C-41DD-41C2-AC03-AF7978F809D5</string>
+	<string>FD3D4D4B-9456-4337-A725-5B1E122BDB6D</string>
 	<key>IDESourceControlProjectName</key>
 	<string>string in reverse</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F4C78800-A9DA-445C-8937-B5218D2A99D0</key>
-		<string>https://github.com/tamilmani11/phasetesting.git</string>
+		<key>6C156E13-424D-4A61-BC5C-3269D3B73A58</key>
+		<string>https://github.com/Dowlath/string-in-reverse.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>string in reverse/string in reverse.xcodeproj/project.xcworkspace</string>
+	<string>string in reverse.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F4C78800-A9DA-445C-8937-B5218D2A99D0</key>
-		<string>../../..</string>
+		<key>6C156E13-424D-4A61-BC5C-3269D3B73A58</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/tamilmani11/phasetesting.git</string>
+	<string>https://github.com/Dowlath/string-in-reverse.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F4C78800-A9DA-445C-8937-B5218D2A99D0</string>
+	<string>6C156E13-424D-4A61-BC5C-3269D3B73A58</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F4C78800-A9DA-445C-8937-B5218D2A99D0</string>
+			<string>6C156E13-424D-4A61-BC5C-3269D3B73A58</string>
 			<key>IDESourceControlWCCName</key>
-			<string>test</string>
+			<string>string in reverse</string>
 		</dict>
 	</array>
 </dict>
